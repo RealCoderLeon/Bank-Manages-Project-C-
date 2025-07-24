@@ -1,4 +1,4 @@
-# Bank-Manager-Project-C++(Beta)
+# Bank-Manager-Project-C++ (Full Release)
 An Unofficial Bank Manager made in C++
-| Version 0.0.5(Latest)
-| (STILL IN DEVELOPMENT)
+| Version 1.0 (Latest)
+
