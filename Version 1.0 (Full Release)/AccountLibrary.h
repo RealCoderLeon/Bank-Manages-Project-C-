@@ -1,6 +1,5 @@
 //account header for bank account manager C++
 //contains all the classes and function for bankaccount.cpp
-//still in development
 
 #include <iostream>
 using namespace std;
@@ -57,6 +56,4 @@ class Account {
             return balance;
         }
         //returns the value of current balance
-
-        //STILL IN WORK
 };
